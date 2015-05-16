@@ -1,0 +1,6 @@
+name: form test
+type: module
+description: test forms' required property
+core: 8.x
+package: Other
+
